@@ -240,6 +240,14 @@ toc_list_number: true
 
 First things first, always keep things simple.
 
+Install `webpack` using `npm`:
+
+```
+npm install -g webpack
+```
+
+Run `webpack` whenever changing files in `source/js` directory.
+
 ## [Changelog](https://github.com/iissnan/hexo-theme-next/wiki/Changelog)
 
 [![views](https://sourcegraph.com/api/repos/github.com/iissnan/hexo-theme-next/.counters/views.svg)](https://sourcegraph.com/github.com/iissnan/hexo-theme-next)
